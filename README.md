@@ -8,7 +8,7 @@ Port in Javascript from [ddos-guard-bypass](https://github.com/Tajikarao/ddos-gu
 ## Usage
 
 ```javascript
-const { DDOSGuard } = require("bypass-ddos-guard");
+const { DDOSGuard } = require("./bypass-ddos-guard.js");
 
 const ddosguard = new DDOSGuard();
 
